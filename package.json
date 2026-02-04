@@ -1,0 +1,9 @@
+{
+  "name": "gasless-erc20-permit",
+  "version": "1.0.0",
+  "description": "EIP-2612 permit implementation",
+  "main": "GaslessToken.sol",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
